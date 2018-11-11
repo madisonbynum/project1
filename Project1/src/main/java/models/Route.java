@@ -1,0 +1,12 @@
+package models;
+
+public enum Route {
+
+	LOGIN, 
+	NOT_FOUND,
+	VIEWREIMBA,
+	VIEWREIMBR,
+	CREATEREIMB,
+	UPDATEREIMBR,
+	UPDATEREIMBA
+}
